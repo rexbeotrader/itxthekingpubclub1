@@ -10,7 +10,7 @@
   "register_url": "https://pakclub.cc/register?inviteCode=7VYDS6N",
   "telegram_url": "https://whatsapp.com/channel/0029Vb7rM8ALI8YZeUVS1w1N",
   "home_url": "https://pakclub.cc",
-  "minimum_deposit_number": 500,
+  "minimum_deposit_number": 5,
   "allowed_numbers": ["3456778910"],
   "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/loginfailed.mp3",
   "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/registeraudio.mp3",
